@@ -1,0 +1,22 @@
+{
+    "name": "cyberpunk",
+    "displayName": "cyberpunk",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "cyberpunk",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "cyberpunk",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyberpunk-color-theme.json"
+            }
+        ]
+    }
+}
