@@ -1,0 +1,29 @@
+{
+    "name": "cyberpunk",
+    "displayName": "Cyberpunk",
+    "description": "A crazy cyberpunk theme",
+    "version": "0.0.1",
+    "publisher": "max-SS",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "cyberpunk",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyberpunk-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/max-SS/cyberpunk.git"
+    },
+    "bugs": {
+        "url": "https://github.com/max-SS/cyberpunk/issues"
+    }
+}
