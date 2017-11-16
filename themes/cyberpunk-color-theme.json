@@ -5,17 +5,17 @@
 		"activityBar.background": "#261D45",
 		"activityBar.foreground": "#69f0ae",
 		"activityBarBadge.background": "#00FF9C",
-		"activityBarBadge.foreground": "#261D45", // Color de fondo de los badge de notificacion.
+		"activityBarBadge.foreground": "#261D45",
 		"activityBar.border": "#1D1833",
 		"editor.background": "#261D45",
-		"editor.foreground": "#00FF9C", // Color del texto del menu de informacion cuando se hace hover sobre el codigo
+		"editor.foreground": "#00FF9C",
 		"editorError.foreground": "#ff4081",
 		"editorRuler.foreground": "#182333",
 		"editor.lineHighlightBackground": "#100d23",
 		"editor.lineHighlightBorder": "#721bf2",
 		"editor.selectionBackground": "#311b92",
 		"editor.selectionHighlightBackground": "#5e35b1",
-		"editorCursor.foreground": "#00FF9C", //////////////////////////////
+		"editorCursor.foreground": "#00FF9C",
 		"editor.findMatchHighlightBackground": "#283593",
 		"editor.wordHighlightBackground": "#42557B",
 		"editor.wordHighlightStrongBackground": "#42557B",
@@ -62,7 +62,7 @@
 		"scrollbarSlider.background": "#5c35b154",
 		"scrollbarSlider.activeBackground": "#6a3ecf6e",
 		"scrollbarSlider.hoverBackground": "#6a3ecf6e",
-		"sideBar.background": "#372963", //////////////////////////////////
+		"sideBar.background": "#372963",
 		"sideBar.border": "#1D1833",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
