@@ -1,4 +1,5 @@
-# README
+![Banner Cyberpunk](/assets/banner.jpg?raw=true "Banner Cyberpunk")
+
 A crazy cyberpunk theme for Visual Studio Code.
 
 ![Code Screenshot](/assets/preview.png?raw=true "Code Screenshot")
