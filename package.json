@@ -19,9 +19,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Cyberpunk",
+                "label": "Cyberpunk", 
                 "uiTheme": "vs-dark",
                 "path": "./themes/cyberpunk-color-theme.json"
+            },
+            {
+                "label": "Cyberpunk mode U.M.B.R.A",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyberpunk-mode-umbra-color-theme.json"
             }
         ]
     },
