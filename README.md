@@ -42,5 +42,9 @@ Copy and paste these colors to customize your Slack.
 
 Your comments and criticisms (constructive 😜) are most welcome.  
 So you're invited to stop by the section [Rating & Review](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk#review-details)  
-Remember that this theme is for you so let's build it together. 
-<h2 align="center">⭐️⭐️⭐️⭐️⭐️</h2>
+Remember that this theme is for you so let's build it together.
+
+---
+
+<div align="center">Don't forget to rate</div>
+<div align="center">⭐️⭐️⭐️⭐️⭐</div>
