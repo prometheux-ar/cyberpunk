@@ -27,6 +27,9 @@ Remember if you are using VSCode 1.12+ versions you can customize the colors to 
 
 ## Bonus 👍
 - You are freelance, you have a team or in your company use Slack?, keep everything in tune with cyberpunk.   
+Copy and paste these colors to customize your Slack.
+`#372963,#182333,#100D23,#9F5FFF,#182333,#FFFFFF,#00FF9C,#FF4081`  
+  - The colours included are:  
 ![#372963](https://placehold.it/15/372963/000000?text=+) `#372963`  
 ![#182333](https://placehold.it/15/182333/000000?text=+)`#182333`  
 ![#100D23](https://placehold.it/15/100D23/000000?text=+)`#100D23`  
@@ -34,8 +37,6 @@ Remember if you are using VSCode 1.12+ versions you can customize the colors to 
 ![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+)`#FFFFFF`  
 ![#00FF9C](https://placehold.it/15/00FF9C/000000?text=+)`#00FF9C`  
 ![#FF4081](https://placehold.it/15/FF4081/000000?text=+)`#00FF9C`   
-Copy and paste these colors to customize your Slack.
-`#372963,#182333,#100D23,#9F5FFF,#182333,#FFFFFF,#00FF9C,#FF4081`
 - Recommended font [FiraCode](https://github.com/tonsky/FiraCode)
 
 ## Reminders 
@@ -47,4 +48,4 @@ Remember that this theme is for you so let's build it together.
 ---
 
 <div align="center">Don't forget to rate</div>
-<div align="center">⭐️⭐️⭐️⭐️⭐</div>
+<div align="center"><span>⭐️⭐️⭐️⭐️⭐</span></div>
