@@ -1,3 +1,15 @@
+<a name="0.2.0-BETA"></a>
+# Version 0.2.0-BETA (03/12/2017)
+
+### Added
+
+* Liberado el Modo U.M.B.R.A ([ea04d7a](https://github.com/max-SS/cyberpunk/commit/ea04d7a9dfc4df3ccbd238b8e57cbc7d5116b823))
+* New previews ([2361e5a](https://github.com/max-SS/cyberpunk/commit/2361e5a2b97c52f4f2661f9f217df91d9281ef91))
+
+### Changed
+* Changes to the README, including a description for the theme ([259c1e8](https://github.com/max-SS/cyberpunk/commit/259c1e853e9c82f12bfd454fd217a6f7b757875f))
+* New `tokenColors` ([675fc28](https://github.com/max-SS/cyberpunk/commit/675fc28c3e3767446baf7af13c6a02aa099f386e))
+
 <a name="0.1.0-BETA"></a>
 # Version 0.1.0-BETA (26/11/2017)
 
