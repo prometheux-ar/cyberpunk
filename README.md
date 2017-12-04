@@ -8,7 +8,8 @@
 
 ### A crazy Cyberpunk theme for Visual Studio Code.
 ![Code Screenshot](/assets/preview.png?raw=true "Code Screenshot")
-
+### 👾 That's it! Activate now the new U. M. B. R. A. mode 👾
+![Code Screenshot](/assets/preview-umbra.png?raw=true "Code Screenshot")
 ## Why Cyberpunk?
 I know, it may look like a rainbow and even give the sensation of distraction.
 But fundamentally I chose the cyberpunk theme, because it allows me to use a very wide color palette, this helps each fragment of code to have practically a color, so our eye quickly detects color changes and our brain is processing and memorizing the information received. This can help unconsciously improve your productivity when programming, as we recognize quickly, for example: if it is an object, a class, a method, etc...
@@ -44,6 +45,9 @@ Copy and paste these colors to customize your Slack.
 Your comments and criticisms (constructive 😜) are most welcome.  
 So you're invited to stop by the section [Rating & Review](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk#review-details)  
 Remember that this theme is for you so let's build it together.
+
+---
+In this version important changes were made in the colors, including the incorporation of a new mode. If there's anything you think was not a good idea to change, don't hesitate to let me know.
 
 ---
 
