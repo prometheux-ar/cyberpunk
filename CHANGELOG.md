@@ -1,3 +1,9 @@
+<a name="0.2.1-BETA"></a>
+# Version 0.2.1-BETA (11/12/2017)
+
+### Changed
+* The colors were changed in: the `panel`, `peekview` and by passing the cursor over the file list in the `sidenav` ([e2ea33a](https://github.com/max-SS/cyberpunk/commit/e2ea33aecb03923fe1de549faf68cb9e728f9039))
+
 <a name="0.2.0-BETA"></a>
 # Version 0.2.0-BETA (03/12/2017)
 
