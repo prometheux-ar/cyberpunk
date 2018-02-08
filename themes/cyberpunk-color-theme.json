@@ -37,6 +37,8 @@
 		"tab.inactiveBackground": "#372963",
 		"tab.inactiveForeground": "#7877b3",
 		"tab.activeBackground": "#261D45",
+		"tab.hoverBorder": "#721bf2",
+		"tab.hoverBackground": "#3f2c70",
 		"input.background": "#182333",
 		"input.border": "#00FF9C",
 		"input.foreground": "#00FF9C",
