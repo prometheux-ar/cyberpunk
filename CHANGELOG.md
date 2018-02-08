@@ -1,3 +1,15 @@
+<a name="0.2.2-BETA"></a>
+# Version 0.2.2-BETA (08/02/2018)
+
+### Added
+* Added new effects and colors to the tabs, thanks to the latest VSC update. ([13ddc86](https://github.com/max-SS/cyberpunk/pull/34/commits/13ddc86d79c8f5c7d7e7e8fb2b343c34934f5714))
+
+### Fixed
+
+* Color change in inputs for better consistency ([acd03ec](https://github.com/max-SS/cyberpunk/pull/31/commits/acd03ec83b48c6914cc34eb76c290edd696699d7))
+
+* Change the color of the indentation guides to cause less distraction. ([d8929f0](https://github.com/max-SS/cyberpunk/pull/32/commits/d8929f0b3be670f6739cd0b15dc39f91dc388a8d))
+
 <a name="0.2.1-BETA"></a>
 # Version 0.2.1-BETA (11/12/2017)
 
