@@ -40,6 +40,15 @@ Copy and paste these colors to customize your Slack.
 ![#FF4081](https://placehold.it/15/FF4081/000000?text=+)`#00FF9C`   
 - Recommended font [FiraCode](https://github.com/tonsky/FiraCode)
 
+## Tips
+#### Edges when selecting a line
+To disable line selection borders, you can use the code below in the VSC settings
+```json
+"workbench.colorCustomizations": {
+  "editor.lineHighlightBorder": "#ff000000"
+}
+```
+
 ## Reminders 
 
 Your comments and criticisms (constructive 😜) are most welcome.  
