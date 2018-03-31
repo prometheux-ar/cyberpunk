@@ -1,3 +1,9 @@
+<a name="1.0.0"></a>
+# Version 1.0.0 (31/03/2018)
+
+### Added
+* Added new colors for the plugin gitLens. ([86b2b2f](https://github.com/max-SS/cyberpunk/commit/86b2b2f0cca15cb410599f53a88029142b90bd56))
+
 <a name="0.2.2-BETA"></a>
 # Version 0.2.2-BETA (08/02/2018)
 
