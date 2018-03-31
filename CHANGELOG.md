@@ -6,7 +6,7 @@
 * Added new colors for the git differences. ([ac41417](https://github.com/max-SS/cyberpunk/commit/ac41417e33ca294611fea766bba9f0c535394f2c))
 * Added new colors for the git differences and gitLens, but for the UMBRA mode ([8ce7fbe](https://github.com/max-SS/cyberpunk/commit/8ce7fbed6e9db42433c87de1168e5ebc82886f7a))
 ### Fixed
-* Fixed the new colors for the notifications ([0319515](https://github.com/max-SS/cyberpunk/commit/03195156c14f6f149859ac85a83e86d1c9d40dad))
+* Fixed the new colors for the notifications (Cyberpunk and UMBRA) ([0319515](https://github.com/max-SS/cyberpunk/commit/03195156c14f6f149859ac85a83e86d1c9d40dad))
 
 <a name="0.2.2-BETA"></a>
 # Version 0.2.2-BETA (08/02/2018)
