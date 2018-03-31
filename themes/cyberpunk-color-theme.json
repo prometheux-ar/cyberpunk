@@ -2,6 +2,12 @@
 	"name": "cyberpunk",
 	"type": "dark",
 	"colors": {
+		"button.background": "#00ff9da6",
+		"button.foreground": "#00140b",
+		"button.hoverBackground": "#00FF9C",
+		"extensionButton.prominentBackground": "#00ff9da6",
+		"extensionButton.prominentForeground": "#00140b",
+		"extensionButton.prominentHoverBackground": "#00FF9C",
 		"diffEditor.insertedTextBackground": "#00ff8427",
 		"diffEditor.removedTextBackground": "#ff174534",
 		"gitlens.gutterBackgroundColor": "#182333",
