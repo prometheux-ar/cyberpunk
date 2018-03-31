@@ -1,5 +1,5 @@
 
-![Banner Cyberpunk](/assets/banner.jpg?raw=true "Banner Cyberpunk")
+![Banner Cyberpunk](/assets/banner.png?raw=true "Banner Cyberpunk")
 <p align="center">
 <img src="https://img.shields.io/vscode-marketplace/d/max-SS.cyberpunk.svg?style=flat-square"/>
 <img src="https://img.shields.io/vscode-marketplace/r/max-SS.cyberpunk.svg?style=flat-square"/>
@@ -8,7 +8,7 @@
 
 ### A crazy Cyberpunk theme for Visual Studio Code.
 ![Code Screenshot](/assets/preview.png?raw=true "Code Screenshot")
-### 👾 That's it! Activate now the new U. M. B. R. A. mode 👾
+### 👾 That's it! Activate now the U.M.B.R.A. protocol 👾
 ![Code Screenshot](/assets/preview-umbra.png?raw=true "Code Screenshot")
 ## Why Cyberpunk?
 I know, it may look like a rainbow and even give the sensation of distraction.
@@ -25,6 +25,13 @@ Click here to go to the [Changelog](https://github.com/max-SS/cyberpunk/blob/mas
 ## Customization
 
 Remember if you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
+
+If you don't like the borders that appear when you position yourself in a line of code 😅, you can always copy and paste the following code into your VSC settings: 😎
+```json
+"workbench.colorCustomizations": {
+    "editor.lineHighlightBorder": "#ff000000"
+}
+```
 
 ## Bonus 👍
 - You are freelance, you have a team or in your company use Slack?, keep everything in tune with cyberpunk.   
