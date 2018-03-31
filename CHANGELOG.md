@@ -3,6 +3,7 @@
 
 ### Added
 * Added new colors for the plugin gitLens. ([86b2b2f](https://github.com/max-SS/cyberpunk/commit/86b2b2f0cca15cb410599f53a88029142b90bd56))
+* Added new colors for the git differences. ([ac41417](https://github.com/max-SS/cyberpunk/commit/ac41417e33ca294611fea766bba9f0c535394f2c))
 
 <a name="0.2.2-BETA"></a>
 # Version 0.2.2-BETA (08/02/2018)
