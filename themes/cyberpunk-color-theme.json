@@ -2,6 +2,12 @@
 	"name": "cyberpunk",
 	"type": "dark",
 	"colors": {
+		"gitlens.gutterBackgroundColor": "#182333",
+		"gitlens.gutterForegroundColor": "#00e676",
+		"gitlens.gutterUncommittedForegroundColor": "#ffff00",
+		"gitlens.lineHighlightBackgroundColor": "#ff174426",
+		"gitlens.lineHighlightOverviewRulerColor": "#ffff00",
+		"gitlens.trailingLineForegroundColor": "#3d5afeb0",
 		"activityBar.background": "#261D45",
 		"activityBar.foreground": "#69f0ae",
 		"activityBarBadge.background": "#00FF9C",
