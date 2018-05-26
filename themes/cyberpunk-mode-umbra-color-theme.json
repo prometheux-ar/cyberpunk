@@ -88,7 +88,7 @@
         "inputValidation.errorBackground": "#53001ce5",
         "inputValidation.errorBorder": "#ff004c",
         "panelTitle.activeBorder": "#00FF9C",
-		"dropdown.background": "#182333",
+		"dropdown.background": "#002212ec",
 		"dropdown.border": "#00FF9C",
         "dropdown.foreground": "#00FF9C",
         "statusBar.debuggingBackground": "#9900ff33",
@@ -106,7 +106,7 @@
 		"list.inactiveSelectionBackground": "#100d23",
 		"list.inactiveSelectionForeground": "#9f5fff",
 		"notificationCenter.border": "#00FF9C",
-		"notificationCenterHeader.background": "#002212e7",
+		"notificationCenterHeader.background": "#002212ec",
 		"notificationCenterHeader.foreground": "#00FF9C",
 		"notificationLink.foreground": "#3d5afe",
 		"notifications.background": "#002212e7",
@@ -134,8 +134,11 @@
 		"scrollbarSlider.activeBackground": "#6a3ecf6e",
 		"scrollbarSlider.hoverBackground": "#6a3ecf6e",
 		"sideBar.background": "#1e1d45",
-		"sideBar.border": "#09040f",
-		"sideBarTitle.foreground": "#bbbbbb"
+        "sideBar.border": "#09040f",
+        "sideBar.foreground": "#8b96ff",
+        "errorForeground": "#ff3270",
+        "foreground": "#ffffff",
+        "sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
 		{
