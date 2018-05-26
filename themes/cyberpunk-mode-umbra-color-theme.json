@@ -10,6 +10,8 @@
         "merge.incomingHeaderBackground": "#003cff6b",
         "terminalCursor.foreground": "#9dff00",
         "terminal.foreground": "#00ff6a",
+        "debugToolBar.background": "#002212ec",
+        "debugToolBar.border": "#00ff6a",
 		"editorLink.activeForeground": "#3d81fe",
 		"textLink.activeForeground": "#3d5afe",
 		"textLink.foreground": "#3d5afe",
