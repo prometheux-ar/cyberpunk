@@ -1,7 +1,9 @@
 {
 	"name": "cyberpunk",
-	"type": "dark",
+    "type": "dark",
 	"colors": {
+        "errorForeground": "#ff3270",
+        "foreground": "#ffffff",
 		"merge.commonContentBackground": "#ff004c33",
 		"merge.commonHeaderBackground": "#ff004c44",
 		"merge.currentContentBackground": "#00ff8427",
@@ -14,7 +16,7 @@
         "debugToolBar.border": "#00ff6a",
 		"editorLink.activeForeground": "#3d81fe",
 		"textLink.activeForeground": "#3d5afe",
-        "textLink.foreground": "#3d5afe",
+        "textLink.foreground": "#0084ff",
         "badge.background": "#00ff88c5",
         "badge.foreground": "#261D45",
 		"button.background": "#00ff9da6",
@@ -91,7 +93,7 @@
         "inputValidation.warningBackground": "#693300e8",
 		"inputValidation.warningBorder": "#ff9100",
 		"panelTitle.activeBorder": "#00FF9C",
-		"dropdown.background": "#182333",
+		"dropdown.background": "#002212ec",
 		"dropdown.border": "#00FF9C",
 		"dropdown.foreground": "#00FF9C",
 		"statusBar.background": "#002212ec",
@@ -109,7 +111,7 @@
 		"list.inactiveSelectionBackground": "#100d23",
 		"list.inactiveSelectionForeground": "#9f5fff",
 		"notificationCenter.border": "#00FF9C",
-		"notificationCenterHeader.background": "#002212e7",
+		"notificationCenterHeader.background": "#002212ec",
 		"notificationCenterHeader.foreground": "#00FF9C",
 		"notificationLink.foreground": "#3d5afe",
 		"notifications.background": "#002212e7",
@@ -138,6 +140,7 @@
 		"scrollbarSlider.hoverBackground": "#6a3ecf6e",
 		"sideBar.background": "#372963",
 		"sideBar.border": "#1D1833",
+        "sideBar.foreground": "#b08bff",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
