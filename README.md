@@ -19,6 +19,8 @@ But fundamentally I chose the cyberpunk theme, because it allows me to use a ver
 To install it, search for "Cyberpunk" in the extension marketplace or [Click here](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk)
 
 ## What's new?
+The transparencies on the floating elements are here. I know it's not the same as applying acrylic from the fluid design... but something is something
+
 
 Click here to go to the [Changelog](https://github.com/max-SS/cyberpunk/blob/master/CHANGELOG.md)
 
@@ -26,31 +28,31 @@ Click here to go to the [Changelog](https://github.com/max-SS/cyberpunk/blob/mas
 
 Remember if you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
 
-If you don't like the borders that appear when you position yourself in a line of code 😅, you can always copy and paste the following code into your VSC settings: 😎
-```json
-"workbench.colorCustomizations": {
-    "editor.lineHighlightBorder": "#ff000000"
-}
-```
+## Contributors
+<!-- ![Code Screenshot](/assets/contributor/avatar_1.png?raw=true "Code Screenshot") ![Code Screenshot](/assets/contributor/avatar_2.png?raw=true "Code Screenshot") -->
+<a href="https://github.com/max-SS/cyberpunk"><img src="assets/contributor/avatar_1.png" width="450rem"></a>
+<a href="https://github.com/qetee"><img src="assets/contributor/avatar_2.png" width="450rem"></a>
 
 ## Bonus 👍
-- You are freelance, you have a team or in your company use Slack?, keep everything in tune with cyberpunk.   
+- You are freelance, you have a team or in your company use Slack?, keep everything in tune with cyberpunk.
 Copy and paste these colors to customize your Slack.
-`#372963,#182333,#100D23,#9F5FFF,#182333,#FFFFFF,#00FF9C,#FF4081`  
-  - The colours included are:  
-![#372963](https://placehold.it/15/372963/000000?text=+) `#372963`  
-![#182333](https://placehold.it/15/182333/000000?text=+)`#182333`  
-![#100D23](https://placehold.it/15/100D23/000000?text=+)`#100D23`  
-![#9F5FFF](https://placehold.it/15/9F5FFF/000000?text=+)`#9F5FFF`  
-![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+)`#FFFFFF`  
-![#00FF9C](https://placehold.it/15/00FF9C/000000?text=+)`#00FF9C`  
-![#FF4081](https://placehold.it/15/FF4081/000000?text=+)`#00FF9C`   
+`#372963,#182333,#100D23,#9F5FFF,#182333,#FFFFFF,#00FF9C,#FF4081`
+  - The colours included are:
+![#372963](https://placehold.it/15/372963/000000?text=+) `#372963`
+![#182333](https://placehold.it/15/182333/000000?text=+)`#182333`
+![#100D23](https://placehold.it/15/100D23/000000?text=+)`#100D23`
+![#9F5FFF](https://placehold.it/15/9F5FFF/000000?text=+)`#9F5FFF`
+![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+)`#FFFFFF`
+![#00FF9C](https://placehold.it/15/00FF9C/000000?text=+)`#00FF9C`
+![#FF4081](https://placehold.it/15/FF4081/000000?text=+)`#00FF9C`
 - Recommended font [FiraCode](https://github.com/tonsky/FiraCode)
+- Recommended `"editor.lineHeight": 30,`
+- Recommended [Rainbo Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) This plugin complements to the perfection the cyberpunk theme
 
-## Reminders 
+## Reminders
 
-Your comments and criticisms (constructive 😜) are most welcome.  
-So you're invited to stop by the section [Rating & Review](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk#review-details)  
+Your comments and criticisms (constructive 😜) are most welcome.
+So you're invited to stop by the section [Rating & Review](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk#review-details)
 Remember that this theme is for you so let's build it together.
 
 ---
