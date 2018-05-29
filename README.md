@@ -29,9 +29,8 @@ Click here to go to the [Changelog](https://github.com/max-SS/cyberpunk/blob/mas
 Remember if you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
 
 ## Contributors
-<!-- ![Code Screenshot](/assets/contributor/avatar_1.png?raw=true "Code Screenshot") ![Code Screenshot](/assets/contributor/avatar_2.png?raw=true "Code Screenshot") -->
-<a href="https://github.com/max-SS/cyberpunk"><img src="assets/contributor/avatar_1.png" width="450rem"></a>
-<a href="https://github.com/qetee"><img src="assets/contributor/avatar_2.png" width="450rem"></a>
+<a href="https://github.com/max-SS/cyberpunk"><img src="https://image.ibb.co/edfXsd/avatar_1.png" width="450rem"></a>
+<a href="https://github.com/qetee"><img src="https://image.ibb.co/cC2dXd/avatar_2.png" width="450rem"></a>
 
 ## Bonus 👍
 - You are freelance, you have a team or in your company use Slack?, keep everything in tune with cyberpunk.
