@@ -1,3 +1,72 @@
+<a name="1.1.0"></a>
+# Version 1.1.0 (26/05/2018)
+## Cyberpunk and U.M.B.R.A.
+### Added
+Se agregaron los siguiente atributos
+#### Input ([28d181e](https://github.com/max-SS/cyberpunk/commit/28d181ed01241f38e53043818fbd84f3f41b98d8)) ([6bb6245](https://github.com/max-SS/cyberpunk/commit/6bb6245c18f7ccd7ea5877d24d65e4fbc0468488))
+`input.foreground`
+`inputValidation.warningBackground`
+`inputValidation.warningBorder`
+`inputValidation.infoBackground`
+`inputValidation.infoBorder`
+`inputValidation.errorBackground`
+`inputValidation.errorBorder`
+`input.placeholderForeground`
+#### Git Decoration ([3a72b1b](https://github.com/max-SS/cyberpunk/commit/3a72b1b95833bcbf2a369301bca95a1094f55da3)) ([0b18c7d](https://github.com/max-SS/cyberpunk/commit/0b18c7d344031805c0880ba61e2634d259e4c2a5))
+`gitDecoration.untrackedResourceForeground`
+`gitDecoration.deletedResourceForeground`
+`gitDecoration.modifiedResourceForeground`
+`gitDecoration.conflictingResourceForeground`
+`gitDecoration.ignoredResourceForeground`
+`gitDecoration.submoduleResourceForeground`
+#### Badge ([d65ccd3](https://github.com/max-SS/cyberpunk/commit/d65ccd399bd3b9b4168564f6da7b5a417ec9c1af)) ([f2428a8](https://github.com/max-SS/cyberpunk/commit/f2428a8934bd136f0f86c2120901b4ca32b5d9ba))
+`badge.background`
+`badge.foreground`
+#### Editor ([57d5157](https://github.com/max-SS/cyberpunk/commit/57d515756c814fcc6a6fedbfffe19b958f2dd856)) ([ab14351](https://github.com/max-SS/cyberpunk/commit/ab1435190a4ea657c04eaff7d43a4e6260e9a7dd)) ([c6fca8d](https://github.com/max-SS/cyberpunk/commit/c6fca8daf07f30053aae62f2db9261dba40264f3)) ([78fc47b](https://github.com/max-SS/cyberpunk/commit/78fc47b5eb0660f85e117af748e35ad08a3144a4))
+`editorBracketMatch.background`
+`editorIndentGuide.activeBackground`
+`editorWarning.foreground`
+`editorSuggestWidget.highlightForeground`
+#### Status Bar ([17b80a6](https://github.com/max-SS/cyberpunk/commit/17b80a6e6e9ff05eb2a570d4fcc56b77577902ee)) ([dbf3bb8](https://github.com/max-SS/cyberpunk/commit/dbf3bb8a9db76683da040b3b8d910fbbe45e8e65))
+`statusBar.debuggingBackground`
+`statusBar.debuggingForeground`
+`statusBar.debuggingBorder`
+#### Debug Tool Bar ([d28ec48](https://github.com/max-SS/cyberpunk/commit/d28ec48cd2858f3feda9f9c95f13fd3a09251ed4)) ([92aec97](https://github.com/max-SS/cyberpunk/commit/92aec97e6bfbeb90e75c9f75be5ec9994261ffd1))
+`debugToolBar.border`
+#### Terminal ([8b6271d](https://github.com/max-SS/cyberpunk/commit/8b6271dde16a65768535f9159d628eb7d46fb45d)) ([d9bdd93](https://github.com/max-SS/cyberpunk/commit/d9bdd938d928b03dbfd1a17b31bd324e89302d90))
+`terminalCursor.foreground`
+`terminal.foreground`
+#### Others ([c2b8f4c](https://github.com/max-SS/cyberpunk/commit/c2b8f4c596d315dee1142e782ae55e6e328f50bc)) ([5b02928](https://github.com/max-SS/cyberpunk/commit/5b02928699aa11c2f5417e3f802097fe62ca0a63))
+`errorForeground`
+`foreground`
+`sideBar.foreground`
+### Changed
+Se modificaron los siguiente atributos
+#### Editor ([57d5157](https://github.com/max-SS/cyberpunk/commit/57d515756c814fcc6a6fedbfffe19b958f2dd856)) ([ab14351](https://github.com/max-SS/cyberpunk/commit/ab1435190a4ea657c04eaff7d43a4e6260e9a7dd)) ([c6fca8d](https://github.com/max-SS/cyberpunk/commit/c6fca8daf07f30053aae62f2db9261dba40264f3)) ([78fc47b](https://github.com/max-SS/cyberpunk/commit/78fc47b5eb0660f85e117af748e35ad08a3144a4))
+`editor.lineHighlightBorder`
+`editorIndentGuide.background`
+`editor.lineHighlightBackground`
+`editorHoverWidget.background`
+`editorWidget.background`
+`editorCursor.foreground`
+`editorError.foreground`
+`editorSuggestWidget.background`
+`editorSuggestWidget.selectedBackground`
+`editorBracketMatch.border`
+#### Debug Tool Bar ([d28ec48](https://github.com/max-SS/cyberpunk/commit/d28ec48cd2858f3feda9f9c95f13fd3a09251ed4)) ([92aec97](https://github.com/max-SS/cyberpunk/commit/92aec97e6bfbeb90e75c9f75be5ec9994261ffd1))
+`debugToolBar.background`
+#### Status Bar ([17b80a6](https://github.com/max-SS/cyberpunk/commit/17b80a6e6e9ff05eb2a570d4fcc56b77577902ee)) ([dbf3bb8](https://github.com/max-SS/cyberpunk/commit/dbf3bb8a9db76683da040b3b8d910fbbe45e8e65))
+`statusBar.background`
+#### Input ([28d181e](https://github.com/max-SS/cyberpunk/commit/28d181ed01241f38e53043818fbd84f3f41b98d8)) ([6bb6245](https://github.com/max-SS/cyberpunk/commit/6bb6245c18f7ccd7ea5877d24d65e4fbc0468488))
+`input.background`
+#### Peek View ([b87c9e8](https://github.com/max-SS/cyberpunk/commit/b87c9e881e775d732fa20edb80497d440c76e424)) ([dcaa5c3](https://github.com/max-SS/cyberpunk/commit/dcaa5c31fcc37f59ad2badca50ddecfb0a136770))
+`peekViewTitle.background`
+`peekViewTitleDescription.foreground`
+#### Others ([c2b8f4c](https://github.com/max-SS/cyberpunk/commit/c2b8f4c596d315dee1142e782ae55e6e328f50bc)) ([5b02928](https://github.com/max-SS/cyberpunk/commit/5b02928699aa11c2f5417e3f802097fe62ca0a63))
+`dropdown.background`
+`notificationCenterHeader.background`
+
+
 <a name="1.0.0"></a>
 # Version 1.0.0 (31/03/2018)
 
@@ -81,4 +150,3 @@
 ![Before](/assets/version-0-0-2/before.png?raw=true "Before")
   - After
 ![After](/assets/version-0-0-2/after.png?raw=true "After")
- 
