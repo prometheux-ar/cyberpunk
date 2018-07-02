@@ -19,6 +19,8 @@ But fundamentally I chose the cyberpunk theme, because it allows me to use a ver
 
 To install it, search for "Cyberpunk" in the extension marketplace or [Click here](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk)
 
+## Spin-off 🐣
+
 ## What's new?
 The transparencies on the floating elements are here. I know it's not the same as applying acrylic from the fluid design... but something is something
 
