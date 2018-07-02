@@ -29,7 +29,7 @@ The transparencies on the floating elements are here. I know it's not the same a
 
 Click here to go to the [Changelog](https://github.com/max-SS/cyberpunk/blob/master/CHANGELOG.md)
 
-## Customization
+## Customization 🎨
 
 Remember if you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
 
