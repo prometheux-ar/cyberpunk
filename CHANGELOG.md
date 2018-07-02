@@ -1,3 +1,10 @@
+<a name="1.1.2"></a>
+# Version 1.1.2 - Kapiushon - (02/07/2018)
+### Added
+New section called "Spin-off". Inaugurated by Cyberpunk for iTerm
+### Changed
+Changes in the theme for "slack"
+
 <a name="1.1.0"></a>
 # Version 1.1.0 (26/05/2018)
 ## Cyberpunk and U.M.B.R.A.

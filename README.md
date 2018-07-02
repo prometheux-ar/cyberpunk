@@ -19,34 +19,37 @@ But fundamentally I chose the cyberpunk theme, because it allows me to use a ver
 
 To install it, search for "Cyberpunk" in the extension marketplace or [Click here](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk)
 
+## Spin-off 🐣
+### Cyberpunk iTerm by [Murderlon](https://github.com/Murderlon/cyberpunk-iterm)
+<a href="https://github.com/Murderlon/cyberpunk-iterm"><img src="https://image.ibb.co/nCXvgd/iterm_preview.png" alt="iterm_preview" width="450rem"></a>
+
 ## What's new?
 The transparencies on the floating elements are here. I know it's not the same as applying acrylic from the fluid design... but something is something
 
 
 Click here to go to the [Changelog](https://github.com/max-SS/cyberpunk/blob/master/CHANGELOG.md)
 
-## Customization
+## Customization 🎨
 
 Remember if you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
 
 ## Hall of the fame 😜
 <a href="https://github.com/max-SS/cyberpunk"><img src="https://image.ibb.co/edfXsd/avatar_1.png" width="450rem"></a>
 <a href="https://github.com/qetee"><img src="https://image.ibb.co/cC2dXd/avatar_2.png" width="450rem"></a>
+<a href="https://github.com/Murderlon"><img src="https://image.ibb.co/eUSNSJ/dorsoavatar_3.png" width="450rem"></a>
 
 More information coming soon, about the badges and how to get them.
 
 ## Bonus 👍
 - You are freelance, you have a team or in your company use Slack?, keep everything in tune with cyberpunk.
 Copy and paste these colors to customize your Slack.
-`#372963,#182333,#100D23,#9F5FFF,#182333,#FFFFFF,#00FF9C,#FF4081`
+`#372963,#100D23,#100d23,#00FF9C,#100D23,#c592ff,#00FF9C,#ff4081`
   - The colours included are:  
 ![#372963](https://placehold.it/15/372963/000000?text=+) `#372963`  
-![#182333](https://placehold.it/15/182333/000000?text=+)`#182333`  
+![#c592ff](https://placehold.it/15/c592ff/000000?text=+)`#c592ff`  
 ![#100D23](https://placehold.it/15/100D23/000000?text=+)`#100D23`  
-![#9F5FFF](https://placehold.it/15/9F5FFF/000000?text=+)`#9F5FFF`  
-![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+)`#FFFFFF`  
 ![#00FF9C](https://placehold.it/15/00FF9C/000000?text=+)`#00FF9C`  
-![#FF4081](https://placehold.it/15/FF4081/000000?text=+)`#00FF9C`  
+![#FF4081](https://placehold.it/15/FF4081/000000?text=+)`#FF4081`  
 - Recommended font [FiraCode](https://github.com/tonsky/FiraCode)
 - Recommended `"editor.lineHeight": 30,`
 - Recommended [Rainbo Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) This plugin complements to the perfection the cyberpunk theme
