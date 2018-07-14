@@ -52,7 +52,7 @@ Copy and paste these colors to customize your Slack.
 ![#FF4081](https://placehold.it/15/FF4081/000000?text=+)`#FF4081`  
 - Recommended font [FiraCode](https://github.com/tonsky/FiraCode)
 - Recommended `"editor.lineHeight": 30,`
-- Recommended [Rainbo Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) This plugin complements to the perfection the cyberpunk theme
+- Recommended [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets). This plugin complements to the perfection the cyberpunk theme
 
 ## Reminders
 
