@@ -27,6 +27,11 @@
                 "label": "Activate U.M.B.R.A. protocol",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cyberpunk-mode-umbra-color-theme.json"
+            },
+            {
+                "label": "Activate SCARLET protocol (beta)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyberpunk-scarlet-color-theme.json"
             }
         ]
     },
