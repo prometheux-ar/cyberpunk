@@ -10,9 +10,8 @@
 ![Code Screenshot](/assets/preview.png?raw=true "Code Screenshot")
 ### That's it! Activate now the U.M.B.R.A. protocol
 ![Code Screenshot](/assets/preview-umbra.png?raw=true "Code Screenshot")
-### 👾 That's it! Activate now the SCARLET protocol 👾
+### 👾 That's it! Activate now the SCARLET protocol 👾 (BETA)
 ![Code Screenshot](/assets/preview-scarlet.png?raw=true "Code Screenshot")
-### Coming soon M---K-- protocol 😱
 ## Why Cyberpunk?
 I know, it may look like a rainbow and even give the sensation of distraction.
 But fundamentally I chose the cyberpunk theme, because it allows me to use a very wide color palette, this helps each fragment of code to have practically a color, so our eye quickly detects color changes and our brain is processing and memorizing the information received. This can help unconsciously improve your productivity when programming, as we recognize quickly, for example: if it is an object, a class, a method, etc...
