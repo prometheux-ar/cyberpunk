@@ -32,7 +32,7 @@
 		"gitlens.gutterUncommittedForegroundColor": "#ffff00",
 		"gitlens.lineHighlightBackgroundColor": "#ff174426",
 		"gitlens.lineHighlightOverviewRulerColor": "#ffff00",
-		"gitlens.trailingLineForegroundColor": "#00ff8449",
+		"gitlens.trailingLineForegroundColor": "#00ffc86c",
 		"gitDecoration.untrackedResourceForeground": "#00ff6a",
 		"gitDecoration.deletedResourceForeground": "#ff004c",
 		"gitDecoration.modifiedResourceForeground": "#00c3ff",
