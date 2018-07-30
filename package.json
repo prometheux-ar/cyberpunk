@@ -2,7 +2,7 @@
     "name": "Cyberpunk",
     "displayName": "Cyberpunk",
     "description": "A crazy cyberpunk theme",
-    "version": "1.1.2",
+    "version": "1.2.0",
     "publisher": "max-SS",
     "galleryBanner": {
 		"color": "#0a0126",
@@ -24,9 +24,14 @@
                 "path": "./themes/cyberpunk-color-theme.json"
             },
             {
-                "label": "Activate U.M.B.R.A. protocol",
+                "label": "Activate UMBRA protocol",
                 "uiTheme": "vs-dark",
-                "path": "./themes/cyberpunk-mode-umbra-color-theme.json"
+                "path": "./themes/cyberpunk-umbra-color-theme.json"
+            },
+            {
+                "label": "Activate SCARLET protocol (beta)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyberpunk-scarlet-color-theme.json"
             }
         ]
     },

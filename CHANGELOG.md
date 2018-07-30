@@ -1,3 +1,8 @@
+<a name="1.2.0"></a>
+# Version 1.2.0 - Lucifer - (25/07/2018)
+### Added
+New protocol: SCARLET ([ac8de1d](https://github.com/prometheux-ar/cyberpunk/commit/ac8de1d1f85de552d7cac79f39c5262f26dcaf9a))
+
 <a name="1.1.2"></a>
 # Version 1.1.2 - Kapiushon - (02/07/2018)
 ### Added
