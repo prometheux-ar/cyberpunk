@@ -8,9 +8,9 @@
 
 ### A crazy Cyberpunk theme for Visual Studio Code.
 ![Code Screenshot](/assets/preview.png?raw=true "Code Screenshot")
-### That's it! Activate now the UMBRA protocol
+### That's it! Activate now the UMBRA protocol.
 ![Code Screenshot](/assets/preview-umbra.png?raw=true "Code Screenshot")
-### 👾 That's it! Activate now the SCARLET protocol 👾 (BETA)
+### 👾 That's it! Activate now the SCARLET protocol 👾 (BETA).
 ![Code Screenshot](/assets/preview-scarlet.png?raw=true "Code Screenshot")
 ## Why Cyberpunk?
 I know, it may look like a rainbow and even give the sensation of distraction.
