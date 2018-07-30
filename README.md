@@ -8,7 +8,7 @@
 
 ### A crazy Cyberpunk theme for Visual Studio Code.
 ![Code Screenshot](/assets/preview.png?raw=true "Code Screenshot")
-### That's it! Activate now the U.M.B.R.A. protocol
+### That's it! Activate now the UMBRA protocol
 ![Code Screenshot](/assets/preview-umbra.png?raw=true "Code Screenshot")
 ### 👾 That's it! Activate now the SCARLET protocol 👾 (BETA)
 ![Code Screenshot](/assets/preview-scarlet.png?raw=true "Code Screenshot")
@@ -35,11 +35,13 @@ Click here to go to the [Changelog](https://github.com/max-SS/cyberpunk/blob/mas
 Remember if you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
 
 ## Hall of the fame 😜
-<a href="https://github.com/max-SS/cyberpunk"><img src="https://image.ibb.co/edfXsd/avatar_1.png" width="450rem"></a>
-<a href="https://github.com/qetee"><img src="https://image.ibb.co/cC2dXd/avatar_2.png" width="450rem"></a>
-<a href="https://github.com/Murderlon"><img src="https://image.ibb.co/eUSNSJ/dorsoavatar_3.png" width="450rem"></a>
+<a href="https://github.com/max-SS/cyberpunk"><img src="https://image.ibb.co/hnfhKT/avatar_1.png" alt="avatar_1" border="0"></a>
+<a href="https://github.com/kuerme"><img src="https://image.ibb.co/ne6068/avatar_2.png" alt="avatar_2" border="0"></a>
+<a href="https://github.com/Murderlon"><img src="https://image.ibb.co/mAsq68/avatar_3.png" alt="avatar_3" border="0"></a>
+<a href="https://github.com/mkoppmann"><img src="https://image.ibb.co/j7BiR8/avatar_4.png" alt="avatar_4" border="0"></a>
+<a href="https://github.com/kleinfreund"><img src="https://image.ibb.co/bLYf68/avatar_5.png" alt="avatar_5" border="0"></a>
 
-More information coming soon, about the badges and how to get them.
+More information coming soon, about the badges and how to get them. **(Very very soon, I promise.)**
 
 ## Bonus 👍
 - You are freelance, you have a team or in your company use Slack?, keep everything in tune with cyberpunk.
