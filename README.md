@@ -39,7 +39,7 @@ Remember if you are using VSCode 1.12+ versions you can customize the colors to 
 <a href="https://github.com/kuerme"><img src="https://image.ibb.co/ne6068/avatar_2.png" alt="avatar_2" border="0"></a>
 <a href="https://github.com/Murderlon"><img src="https://image.ibb.co/mAsq68/avatar_3.png" alt="avatar_3" border="0"></a>
 <a href="https://github.com/mkoppmann"><img src="https://image.ibb.co/j7BiR8/avatar_4.png" alt="avatar_4" border="0"></a>
-<a href="https://github.com/kleinfreund"><img src="https://image.ibb.co/bLYf68/avatar_5.png" alt="avatar_5" border="0"></a>
+<a href="https://github.com/kleinfreund"><img src="https://image.ibb.co/dytove/avatar_5.png" alt="avatar_5" border="0"></a>
 
 More information coming soon, about the badges and how to get them. **(Very very soon, I promise.)**
 
