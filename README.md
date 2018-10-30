@@ -1,9 +1,11 @@
 
 ![Banner Cyberpunk](/assets/banner.png?raw=true "Banner Cyberpunk")
 <p align="center">
-<img src="https://img.shields.io/vscode-marketplace/d/max-SS.cyberpunk.svg?style=flat-square"/>
-<img src="https://img.shields.io/vscode-marketplace/r/max-SS.cyberpunk.svg?style=flat-square"/>
-<img src="https://img.shields.io/vscode-marketplace/v/max-SS.cyberpunk.svg?style=flat-square"/>
+<img src="https://img.shields.io/vscode-marketplace/d/max-SS.cyberpunk.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/vscode-marketplace/r/max-SS.cyberpunk.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/vscode-marketplace/v/max-SS.cyberpunk.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/github/contributors/prometheux-ar/cyberpunk.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/prometheux-ar/cyberpunk.svg?style=for-the-badge&label=Stars"/>
 </p>
 
 ### A crazy Cyberpunk theme for Visual Studio Code.
@@ -39,7 +41,7 @@ Remember if you are using VSCode 1.12+ versions you can customize the colors to 
 <a href="https://github.com/kuerme"><img src="https://image.ibb.co/ne6068/avatar_2.png" alt="avatar_2" border="0"></a>
 <a href="https://github.com/Murderlon"><img src="https://image.ibb.co/mAsq68/avatar_3.png" alt="avatar_3" border="0"></a>
 <a href="https://github.com/mkoppmann"><img src="https://image.ibb.co/j7BiR8/avatar_4.png" alt="avatar_4" border="0"></a>
-<a href="https://github.com/kleinfreund"><img src="https://image.ibb.co/bLYf68/avatar_5.png" alt="avatar_5" border="0"></a>
+<a href="https://github.com/kleinfreund"><img src="https://image.ibb.co/dytove/avatar_5.png" alt="avatar_5" border="0"></a>
 
 More information coming soon, about the badges and how to get them. **(Very very soon, I promise.)**
 
@@ -47,13 +49,14 @@ More information coming soon, about the badges and how to get them. **(Very very
 - You are freelance, you have a team or in your company use Slack?, keep everything in tune with cyberpunk.
 Copy and paste these colors to customize your Slack.
 `#372963,#100D23,#100d23,#00FF9C,#100D23,#c592ff,#00FF9C,#ff4081`
-  - The colours included are:  
-![#372963](https://placehold.it/15/372963/000000?text=+) `#372963`  
-![#c592ff](https://placehold.it/15/c592ff/000000?text=+)`#c592ff`  
-![#100D23](https://placehold.it/15/100D23/000000?text=+)`#100D23`  
-![#00FF9C](https://placehold.it/15/00FF9C/000000?text=+)`#00FF9C`  
-![#FF4081](https://placehold.it/15/FF4081/000000?text=+)`#FF4081`  
+  - The colours included are:
+![#372963](https://placehold.it/15/372963/000000?text=+) `#372963`
+![#c592ff](https://placehold.it/15/c592ff/000000?text=+)`#c592ff`
+![#100D23](https://placehold.it/15/100D23/000000?text=+)`#100D23`
+![#00FF9C](https://placehold.it/15/00FF9C/000000?text=+)`#00FF9C`
+![#FF4081](https://placehold.it/15/FF4081/000000?text=+)`#FF4081`
 - Recommended font [FiraCode](https://github.com/tonsky/FiraCode)
+- Recommended `"editor.fontLigatures": true,`
 - Recommended `"editor.lineHeight": 30,`
 - Recommended [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets). This plugin complements to the perfection the cyberpunk theme
 
