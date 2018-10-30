@@ -1,9 +1,11 @@
 
 ![Banner Cyberpunk](/assets/banner.png?raw=true "Banner Cyberpunk")
 <p align="center">
-<img src="https://img.shields.io/vscode-marketplace/d/max-SS.cyberpunk.svg?style=flat-square"/>
-<img src="https://img.shields.io/vscode-marketplace/r/max-SS.cyberpunk.svg?style=flat-square"/>
-<img src="https://img.shields.io/vscode-marketplace/v/max-SS.cyberpunk.svg?style=flat-square"/>
+<img src="https://img.shields.io/vscode-marketplace/d/max-SS.cyberpunk.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/vscode-marketplace/r/max-SS.cyberpunk.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/vscode-marketplace/v/max-SS.cyberpunk.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/github/contributors/prometheux-ar/cyberpunk.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/prometheux-ar/cyberpunk.svg?style=for-the-badge&label=Stars"/>
 </p>
 
 ### A crazy Cyberpunk theme for Visual Studio Code.
