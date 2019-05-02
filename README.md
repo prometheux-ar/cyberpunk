@@ -23,8 +23,11 @@ But fundamentally I chose the cyberpunk theme, because it allows me to use a ver
 To install it, search for "Cyberpunk" in the extension marketplace or [Click here](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk)
 
 ## Spin-off 🐣
+### Cyberpunk Chrome theme by [Angus J. Pope](https://github.com/angusPope)
+<a href="https://github.com/angusPope"><img src="https://i.ibb.co/f2wC4rW/chrome-theme.png" alt="chrome_theme_preview" width="450rem"></a>
+
 ### Cyberpunk iTerm by [Murderlon](https://github.com/Murderlon/cyberpunk-iterm)
-<a href="https://github.com/Murderlon/cyberpunk-iterm"><img src="https://image.ibb.co/nCXvgd/iterm_preview.png" alt="iterm_preview" width="450rem"></a>
+<a href="https://github.com/Murderlon/cyberpunk-iterm"><img src="https://i.ibb.co/XWmMqQP/iterm-theme.png" alt="iterm_theme_preview" width="450rem"></a>
 
 ## What's new?
 The transparencies on the floating elements are here. I know it's not the same as applying acrylic from the fluid design... but something is something
@@ -42,6 +45,7 @@ Remember if you are using VSCode 1.12+ versions you can customize the colors to 
 <a href="https://github.com/Murderlon"><img src="https://image.ibb.co/mAsq68/avatar_3.png" alt="avatar_3" border="0"></a>
 <a href="https://github.com/mkoppmann"><img src="https://image.ibb.co/j7BiR8/avatar_4.png" alt="avatar_4" border="0"></a>
 <a href="https://github.com/kleinfreund"><img src="https://image.ibb.co/dytove/avatar_5.png" alt="avatar_5" border="0"></a>
+<a href="https://github.com/angusPope"><img src="https://i.ibb.co/V2sfPhS/avatar_6.png" alt="avatar_6" border="0"></a>
 
 More information coming soon, about the badges and how to get them. **(Very very soon, I promise.)**
 
