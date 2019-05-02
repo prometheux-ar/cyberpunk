@@ -24,7 +24,7 @@ To install it, search for "Cyberpunk" in the extension marketplace or [Click her
 
 ## Spin-off 🐣
 ### Cyberpunk Chrome theme by [Angus J. Pope](https://github.com/angusPope)
-<a href="https://github.com/angusPope"><img src="https://i.ibb.co/f2wC4rW/chrome-theme.png" alt="chrome_theme_preview" width="450rem"></a>
+<a href="https://chrome.google.com/webstore/detail/cyberpunk/ekkfihjmcoeplagmladakeignpdaecmc"><img src="https://i.ibb.co/f2wC4rW/chrome-theme.png" alt="chrome_theme_preview" width="450rem"></a>
 
 ### Cyberpunk iTerm by [Murderlon](https://github.com/Murderlon/cyberpunk-iterm)
 <a href="https://github.com/Murderlon/cyberpunk-iterm"><img src="https://i.ibb.co/XWmMqQP/iterm-theme.png" alt="iterm_theme_preview" width="450rem"></a>
