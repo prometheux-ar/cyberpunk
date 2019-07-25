@@ -5,9 +5,9 @@
     "version": "1.2.3",
     "publisher": "max-SS",
     "galleryBanner": {
-		"color": "#0a0126",
-		"theme": "dark"
-	},
+        "color": "#0a0126",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.18.0"
     },
