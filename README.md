@@ -29,6 +29,9 @@ To install it, search for "Cyberpunk" in the extension marketplace or [Click her
 ### Cyberpunk iTerm by [Murderlon](https://github.com/Murderlon/cyberpunk-iterm)
 <a href="https://github.com/Murderlon/cyberpunk-iterm"><img src="https://i.ibb.co/XWmMqQP/iterm-theme.png" alt="iterm_theme_preview" width="450rem"></a>
 
+### Cyberpunk Hyper by [szul](https://github.com/szul)
+<a href="https://github.com/szul/hyperterm-cyberpunk"><img src="https://github.com/szul/hyperterm-cyberpunk/blob/master/assets/screenshot.png" alt="iterm_theme_preview" width="450rem"></a>
+
 ## What's new?
 The transparencies on the floating elements are here. I know it's not the same as applying acrylic from the fluid design... but something is something
 
