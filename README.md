@@ -50,6 +50,8 @@ Remember if you are using VSCode 1.12+ versions you can customize the colors to 
 <a href="https://github.com/kleinfreund"><img src="https://image.ibb.co/dytove/avatar_5.png" alt="avatar_5" border="0"></a>
 <a href="https://github.com/angusPope"><img src="https://i.ibb.co/V2sfPhS/avatar_6.png" alt="avatar_6" border="0"></a>
 
+> Excuse me for not adding a few collaborators. At this moment I'm moving from the city, so I don't have the tools to create the cards, nor the time... as soon as I'm free, I'll be adding them. Thank you very much for your contributions.
+
 More information coming soon, about the badges and how to get them. **(Very very soon, I promise.)**
 
 ## Bonus 👍
