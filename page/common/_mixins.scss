@@ -1,0 +1,34 @@
+@import './variables';
+
+@mixin setText($family, $size, $color: $fg_paragraph, $line_height: auto) {
+    color: $color;
+    font-size: $size;
+    font-family: $family;
+    line-height: $line_height;
+}
+
+@mixin buildingPostitionAbsolute ($top: auto, $left: auto, $right: auto, $bottom: auto, $z_index: auto) {
+    top: $top;
+    left: $left;
+    right: $right;
+    bottom: $bottom;
+    z-index: $z_index;
+    position: absolute;
+}
+
+@mixin transform {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+@mixin containerSize($width, $height: auto) {
+    width: $width;
+    height: $height;
+}
+
+@mixin triangleDecoration($color: $red, $size: 4px) {
+    border-top: $size solid $color;
+    border-right: $size solid $color;
+    border-left: $size solid transparent;
+    border-bottom: $size solid transparent;
+}
