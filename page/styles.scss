@@ -1,0 +1,215 @@
+@import './common/flex-layout';
+@import './common/mixins';
+@import './common/fonts';
+
+* { margin: 0; padding: 0; }
+
+html,
+body {
+    background-color: $bg_body;
+    height: 100%;
+}
+
+a { text-decoration: none; outline: none;}
+
+h1.main-title { @include setText('Blender Heavy', 42px, $fg_body, 60px) }
+
+.main-title-decoration {
+    position: relative;
+    z-index: 1;
+}
+
+.main-title-decoration::after {
+    content: '';
+    @include buildingPostitionAbsolute(-60px, 380px, auto, auto, -1);
+    @include containerSize(100%, 100%);
+    background-image: url('/page/common/images/quotes.svg');
+    background-repeat: no-repeat;
+}
+
+nav {
+    @include setText('Blender Book', 18px);
+    @include containerSize(100%, 64px);
+}
+
+nav a {
+    margin: 0 20px;
+    color: rgba($color: $fg_body, $alpha: .7);
+}
+
+a.button-large {
+    @include setText('Blender Heavy' !important, 28px);
+    padding: 12px 25px !important;
+}
+
+a.button-compact {
+    @include containerSize(24px, 24px !important);
+    padding: 15px;
+    border: 2px solid $border_color;
+}
+
+a.button {
+    @extend .layout-row; 
+    @extend .layout-align-center-center;
+    position: relative;
+    padding: 8px 16px;
+    background-color: $bg_button !important;
+    color: $fg_button;
+    font-family: 'Blender Bold', sans-serif;
+}
+
+%button-decoration {
+    content: '';
+    @include containerSize(24px, 24px);
+    @include transform();
+    background-color: $bg_body;
+}
+
+a.button:after {
+    @extend %button-decoration;
+    @include buildingPostitionAbsolute(-14px, auto, -13px);
+}
+
+a.button:before {
+    @extend %button-decoration;
+    @include buildingPostitionAbsolute(auto, -13px, auto, -14px, 999);
+}
+
+a.button .decoration {
+    @include buildingPostitionAbsolute(0, auto, 0, auto, 1);
+    @include triangleDecoration();
+    @include containerSize(0, 0);
+}
+
+section { @include containerSize(100%, 90%) }
+
+.content-section {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.main-elements-margin {
+    margin-bottom: 55px;
+}
+
+.tilt-wrap {
+    transform-style: preserve-3d;
+}
+
+.decoration--button {
+    @include containerSize(calc(100% - 1px), calc(50% + 8px));
+    border-bottom: 2px solid $border_color;
+    border-right: 2px solid $border_color;
+    position: relative;
+    bottom: 30px;
+    left: 9px;
+}
+
+.decoration--button:before {
+    content: '';
+    @include buildingPostitionAbsolute(auto, -5px, auto, 0, 999);
+    @include containerSize(12px, 12px);
+    @include transform();
+    border-bottom: 2px solid $border_color;
+}
+
+.decoration--button::after {
+    content: 'OR ALSO';
+    @include buildingPostitionAbsolute(auto, auto, 34px, -10px);
+    @include setText('Blender Heavy', 14px, $fg_body);
+    background-color: $bg_body;
+    box-sizing: border-box;
+    padding: 0 6px;
+}
+
+.button-content {
+    display: inline-block;
+}
+
+div.button-group a:nth-child(2) {
+    border-right: none !important;
+    position: relative;
+}
+
+div.button-group a:nth-child(2):before {
+    content: '';
+    @include buildingPostitionAbsolute(auto, -13px, auto, -14px, 999);
+    @include containerSize(23px, 23px);
+    @include transform();
+    border-top: 2px solid $border_color;
+    background-color: $bg_body;
+}
+
+div.button-group a:last-child {
+    border-left: none !important;
+    position: relative;
+} 
+
+div.button-group a:last-child:before {
+    content: '';
+    @include buildingPostitionAbsolute(-14px, auto, -13px, auto, 999);
+    @include containerSize(23px, 23px);
+    @include transform();
+    background-color: $bg_body;
+    border-bottom: 2px solid $border_color;
+}
+
+.body-content {
+    @include containerSize(100%, 100%);
+    background-color: $bg_section;
+}
+
+.body-content-decoration {
+    @include buildingPostitionAbsolute(auto, auto, auto, 0);
+    @include containerSize(100%, 85px);
+    background-image: url(/page/common/images/bg_decoration.svg);
+    background-repeat: repeat-x;
+    background-size: cover;
+}
+
+div[id*='FCS_'] {
+    box-shadow: none !important;
+    background-color: transparent !important;
+    border-radius: none !important;
+    border: none !important;
+}
+
+div[id*='FCS_'] > a > img { @include containerSize(30% !important, 30% !important) }
+
+a[id*='FCS_'] { display: none !important }
+
+h1.title-content {
+    @include setText('Blender Bold Italic', 56px, $fg_title);
+    padding-bottom: 60px;
+    padding-top: 34px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.title-content--decoration-secondary {
+    @include buildingPostitionAbsolute(2px, 0, auto, auto);
+    @include containerSize(114px, 6px);
+    background-color: $yellow;
+} 
+
+.title-content--decoration-secondary::before {
+    content: '';
+    @include buildingPostitionAbsolute(0px, auto, 0, auto);
+    @include triangleDecoration($black, 6px);
+    width: 60px;
+}
+
+.title-content--decoration::before {
+    content: '';
+    @include buildingPostitionAbsolute(0, auto, 20px, auto, 2);
+    @include containerSize(10px, 4px);
+    background-color: $black;
+}
+
+.title-content--decoration {
+    @include buildingPostitionAbsolute(8px, 0, auto, auto, 1);
+    @include containerSize(114px, 4px);
+    background-color: $yellow;
+}
+
+p { @include setText('Blender Book', 28px, $fg_paragraph, 50px) }

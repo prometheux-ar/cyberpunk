@@ -1,0 +1,18 @@
+$fonts: (
+    blender_thin_italic: 'Blender Thin Italic',
+    blender_book_italic: 'Blender Book Italic',
+    blender_medium_italic: 'Blender Medium Italic',
+    blender_bold_italic: 'Blender Bold Italic',
+    blender_thin: 'Blender Thin',
+    blender_book: 'Blender Book',
+    blender_medium: 'Blender Medium',
+    blender_bold: 'Blender Bold',
+    blender_heavy: 'Blender Heavy'
+);
+
+@each $key, $value in $fonts {
+    @font-face {
+        font-family: $value;
+        src: url('../../page/common/fonts/#{$key}.woff');
+    }
+}
