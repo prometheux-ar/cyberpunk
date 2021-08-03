@@ -1,5 +1,5 @@
 
-![Banner Cyberpunk](/assets/banner.png?raw=true "Banner Cyberpunk")
+![Banner Cyberpunk](/assets/cyberpunk_banner_2021.png?raw=true "Banner Cyberpunk")
 <p align="center">
 <img src="https://img.shields.io/vscode-marketplace/d/max-SS.cyberpunk.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/vscode-marketplace/r/max-SS.cyberpunk.svg?style=for-the-badge"/>
@@ -30,7 +30,7 @@ To install it, search for "Cyberpunk" in the extension marketplace or [Click her
 <a href="https://github.com/Murderlon/cyberpunk-iterm"><img src="https://i.ibb.co/XWmMqQP/iterm-theme.png" alt="iterm_theme_preview" width="450rem"></a>
 
 ### Cyberpunk Hyper by [szul](https://github.com/szul)
-<a href="https://github.com/szul/hyperterm-cyberpunk"><img src="https://github.com/szul/hyperterm-cyberpunk/blob/master/assets/screenshot.png?raw=true" alt="iterm_theme_preview" width="450rem"></a>
+<a href="https://github.com/szul/hyperterm-cyberpunk"><img src="assets/spin-off/hyper-cyberpunk-spin_off.png" alt="iterm_theme_preview" width="450rem"></a>
 
 ## What's new?
 The transparencies on the floating elements are here. I know it's not the same as applying acrylic from the fluid design... but something is something
@@ -49,8 +49,6 @@ Remember if you are using VSCode 1.12+ versions you can customize the colors to 
 <a href="https://github.com/mkoppmann"><img src="https://image.ibb.co/j7BiR8/avatar_4.png" alt="avatar_4" border="0"></a>
 <a href="https://github.com/kleinfreund"><img src="https://image.ibb.co/dytove/avatar_5.png" alt="avatar_5" border="0"></a>
 <a href="https://github.com/angusPope"><img src="https://i.ibb.co/V2sfPhS/avatar_6.png" alt="avatar_6" border="0"></a>
-
-> Excuse me for not adding a few collaborators. At this moment I'm moving from the city, so I don't have the tools to create the cards, nor the time... as soon as I'm free, I'll be adding them. Thank you very much for your contributions.
 
 More information coming soon, about the badges and how to get them. **(Very very soon, I promise.)**
 

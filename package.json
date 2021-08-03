@@ -2,7 +2,7 @@
     "name": "Cyberpunk",
     "displayName": "Cyberpunk",
     "description": "A crazy cyberpunk theme",
-    "version": "1.2.5",
+    "version": "1.2.6",
     "publisher": "max-SS",
     "galleryBanner": {
         "color": "#0a0126",
@@ -12,7 +12,7 @@
         "vscode": "^1.18.0"
     },
     "license": "MIT",
-    "icon": "icon.png",
+    "icon": "cyberpunk_logo_2021.png",
     "categories": [
         "Themes"
     ],
