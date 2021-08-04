@@ -56,12 +56,7 @@ More information coming soon, about the badges and how to get them. **(Very very
 - You are freelance, you have a team or in your company use Slack?, keep everything in tune with cyberpunk.
 Copy and paste these colors to customize your Slack.
 `#372963,#100D23,#100d23,#00FF9C,#100D23,#c592ff,#00FF9C,#ff4081`
-  - The colours included are:
-![#372963](https://placehold.it/15/372963/000000?text=+) `#372963`
-![#c592ff](https://placehold.it/15/c592ff/000000?text=+)`#c592ff`
-![#100D23](https://placehold.it/15/100D23/000000?text=+)`#100D23`
-![#00FF9C](https://placehold.it/15/00FF9C/000000?text=+)`#00FF9C`
-![#FF4081](https://placehold.it/15/FF4081/000000?text=+)`#FF4081`
+
 - Recommended font [FiraCode](https://github.com/tonsky/FiraCode)
 - Recommended `"editor.fontLigatures": true,`
 - Recommended `"editor.lineHeight": 30,`
