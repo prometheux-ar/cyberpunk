@@ -1,17 +1,12 @@
-
 ![Banner Cyberpunk](/assets/cyberpunk_banner_2021.png?raw=true "Banner Cyberpunk")
 
-<div align="center">
-  
+<div align="center"><h1>A crazy Cyberpunk theme for Visual Studio Code.</h1></div>
+
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/max-SS.cyberpunk?colorA=4B1E97&label=Version&colorB=280E54&style=for-the-badge)
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/d/max-SS.cyberpunk?colorA=4B1E97&label=Download&colorB=280E54&style=for-the-badge)
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/r/max-SS.cyberpunk?colorA=4B1E97&label=Rating&colorB=280E54&style=for-the-badge)
 ![Visual Studio Marketplace Version](https://img.shields.io/github/stars/prometheux-ar/cyberpunk?colorA=4B1E97&label=Stars&colorB=280E54&style=for-the-badge)
 ![Visual Studio Marketplace Version](https://img.shields.io/github/contributors/prometheux-ar/cyberpunk?colorA=4B1E97&label=Contributors&colorB=280E54&style=for-the-badge)
-  
-</div>
-
-<div align="center"><h1>A crazy Cyberpunk theme for Visual Studio Code.</h1></div>
 
 ![Code Screenshot](/assets/preview.png?raw=true "Code Screenshot")
 
