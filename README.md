@@ -69,7 +69,7 @@ Copy and paste these colors to customize your Slack.
 <br>
 <br>
 
-![Reminders](/assets/image/reminders.png?raw=true "Reminders")
+![Reminders](/assets/image/Reminders.png?raw=true "Reminders")
 
 Your feedback are most welcome.
 So you're invited to stop by the section [Rating & Review](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk#review-details)
