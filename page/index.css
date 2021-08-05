@@ -176,31 +176,31 @@
     box-sizing: border-box; } }
 @font-face {
   font-family: "Blender Thin Italic";
-  src: url("../../../common/fonts/blender_thin_italic.woff"); }
+  src: url("../common/fonts/blender_thin_italic.woff"); }
 @font-face {
   font-family: "Blender Book Italic";
-  src: url("../../../common/fonts/blender_book_italic.woff"); }
+  src: url("../common/fonts/blender_book_italic.woff"); }
 @font-face {
   font-family: "Blender Medium Italic";
-  src: url("../../../common/fonts/blender_medium_italic.woff"); }
+  src: url("../common/fonts/blender_medium_italic.woff"); }
 @font-face {
   font-family: "Blender Bold Italic";
-  src: url("../../../common/fonts/blender_bold_italic.woff"); }
+  src: url("../common/fonts/blender_bold_italic.woff"); }
 @font-face {
   font-family: "Blender Thin";
-  src: url("../../../common/fonts/blender_thin.woff"); }
+  src: url("../common/fonts/blender_thin.woff"); }
 @font-face {
   font-family: "Blender Book";
-  src: url("../../../common/fonts/blender_book.woff"); }
+  src: url("../common/fonts/blender_book.woff"); }
 @font-face {
   font-family: "Blender Medium";
-  src: url("../../../common/fonts/blender_medium.woff"); }
+  src: url("../common/fonts/blender_medium.woff"); }
 @font-face {
   font-family: "Blender Bold";
-  src: url("../../../common/fonts/blender_bold.woff"); }
+  src: url("../common/fonts/blender_bold.woff"); }
 @font-face {
   font-family: "Blender Heavy";
-  src: url("../../../common/fonts/blender_heavy.woff"); }
+  src: url("../common/fonts/blender_heavy.woff"); }
 * {
   margin: 0;
   padding: 0; }
