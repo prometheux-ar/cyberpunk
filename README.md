@@ -36,21 +36,32 @@ But fundamentally I chose the cyberpunk theme, because it allows me to use a ver
 <a href="https://github.com/Murderlon/cyberpunk-iterm"><img src="https://i.ibb.co/XWmMqQP/iterm-theme.png" alt="iterm_theme_preview" width="450rem"></a>
 
 ### Cyberpunk Hyper by [szul](https://github.com/szul)
-<a href="https://github.com/szul/hyperterm-cyberpunk"><img src="assets/spin-off/hyper-cyberpunk-spin_off.png" alt="iterm_theme_preview" width="450rem"></a>
+<a href="https://github.com/szul/hyperterm-cyberpunk"><img src="assets/spin-off/hyper-cyberpunk-spin_off.png" alt="hyper_theme_preview" width="450rem"></a>
+
+### Cyberpunk SCARLET for Windows Termin [hasparus](https://gist.github.com/hasparus)
+<a href="https://gist.github.com/hasparus/37f8e6ceb4112a0e33f2223dd1e9dd2e"><img src="assets/spin-off/Cyberpunk-SCARLET-for-Windows-Terminal-spin_off.png" alt="windows-terminal_theme_preview" width="450rem"></a>
+
+### CyberPunk2077-umbra-WindowsTerminal [mikevromen](hhttps://github.com/mikevromen)
+<a href="https://github.com/mikevromen/CyberPunk2077-umbra-WindowsTerminal"><img src="assets/spin-off/CyberPunk2077-umbra-WindowsTerminal-spin_off.png" alt="windows-terminal_theme_preview" width="450rem"></a>
+
 
 <br>
 <br>
 
 ![Hall of the fame](/assets/image/hall_of_the_fame.png?raw=true "Hall of the fame")
 
-<a href="https://github.com/max-SS/cyberpunk"><img src="https://image.ibb.co/hnfhKT/avatar_1.png" alt="avatar_1" border="0"></a>
-<a href="https://github.com/kuerme"><img src="https://image.ibb.co/ne6068/avatar_2.png" alt="avatar_2" border="0"></a>
-<a href="https://github.com/Murderlon"><img src="https://image.ibb.co/mAsq68/avatar_3.png" alt="avatar_3" border="0"></a>
-<a href="https://github.com/mkoppmann"><img src="https://image.ibb.co/j7BiR8/avatar_4.png" alt="avatar_4" border="0"></a>
-<a href="https://github.com/kleinfreund"><img src="https://image.ibb.co/dytove/avatar_5.png" alt="avatar_5" border="0"></a>
-<a href="https://github.com/angusPope"><img src="https://i.ibb.co/V2sfPhS/avatar_6.png" alt="avatar_6" border="0"></a>
+<a href="https://github.com/max-SS/cyberpunk"><img src="assets/hall-of-the-fame/max-ss_creator.png" alt="avatar_1" border="0"></a>
+<a href="https://github.com/Murderlon"><img src="assets/hall-of-the-fame/murderlon_creator.png" alt="avatar_3" border="0"></a>
+<a href="https://github.com/angusPope"><img src="assets/hall-of-the-fame/angus_creator.png" alt="avatar_6" border="0"></a>
+<a href="https://gist.github.com/hasparus"><img src="assets/hall-of-the-fame/hasparus_creator.png" alt="avatar_6" border="0"></a>
+<a href="https://github.com/mikevromen"><img src="assets/hall-of-the-fame/mikevromen_creator.png" alt="avatar_6" border="0"></a>
+<a href="https://github.com/szul"><img src="assets/hall-of-the-fame/szul_creator.png" alt="avatar_6" border="0"></a>
+<a href="https://github.com/kuerme"><img src="assets/hall-of-the-fame/kuerme_contributor.png" alt="avatar_2" border="0"></a>
+<a href="https://github.com/mkoppmann"><img src="assets/hall-of-the-fame/mkoppmann_contributor.png" alt="avatar_4" border="0"></a>
+<a href="https://github.com/kleinfreund"><img src="assets/hall-of-the-fame/kleinfreund_contributor.png" alt="avatar_5" border="0"></a>
+<a href="https://github.com/chrysillala"><img src="assets/hall-of-the-fame/chrysillala_contributor.png" alt="avatar_6" border="0"></a>
 
-More information coming soon, about the badges and how to get them. **(Very very soon, I promise.)**
+[More information about boost](/wiki/boost.md)
 
 <br>
 <br>
@@ -80,4 +91,14 @@ Remember that this theme is for you so let's build it together.
 <div align="center">
 
 ![Stars](/assets/image/stars.png?raw=true "Stars")
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+<img src="assets/image/fin.png" width="100" alt="avatar_6" border="0">
 </div>
