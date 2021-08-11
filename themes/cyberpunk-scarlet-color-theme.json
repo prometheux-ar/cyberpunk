@@ -2,6 +2,11 @@
 	"name": "cyberpunk scarlet",
 	"type": "dark",
 	"colors": {
+		"titleBar.activeBackground": "#140009",
+		"titleBar.activeForeground": "#ff8ba8",
+		"sideBarSectionHeader.background": "#240000",
+		"sideBarSectionHeader.border": "#ff235a",
+		"sideBarSectionHeader.foreground": "#ff8ba8",
 		"errorForeground": "#ff3270",
 		"foreground": "#ffffff",
 		"merge.commonContentBackground": "#ff004c33",
