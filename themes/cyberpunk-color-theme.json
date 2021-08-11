@@ -147,7 +147,11 @@
 		"sideBar.border": "#1D1833",
 		"sideBar.foreground": "#b08bff",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"titleBar.activeBackground": "#1D1833",
+		"titleBar.activeBackground": "#100D23",
+		"titleBar.activeForeground": "#00FF9C",
+		"titleBar.inactiveBackground": "#1E1D45",
+		"titleBar.inactiveForeground": "#00FF9C",
+		"titleBar.border": "#100D23",
 		"widget.shadow": "#0000006b",
 	},
 	"tokenColors": [
