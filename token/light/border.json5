@@ -1,0 +1,15 @@
+{
+  "color": {
+    "border": {
+      "primary": { "value": "{color.core.grey.100.value}99" },
+      "secondary": { "value": "{color.core.grey.100.value}33" },
+      "tertiary": { "value": "{color.core.grey.100.value}11" },
+      // "focus": { "value": "{color.core.pink.dark.value}66" },
+      "active": { "value": "{color.core.pink.dark.value}CC" },
+      "success": { "value": "{color.core.green.dark.value}CC" },
+      "danger": { "value": "{color.core.red.dark.value}CC" },
+      "warning": { "value": "{color.core.orange.dark.value}CC" },
+      "info": { "value": "{color.core.teal.dark.value}CC" },
+    }
+  }
+}

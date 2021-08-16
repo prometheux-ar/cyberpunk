@@ -1,0 +1,19 @@
+{
+  // Tabs are at the top of the editor
+  "tab": {
+    "border": { "value": "#0000" },
+    
+    "activeBackground": { "value": "{color.background.primary.value}" },
+    "activeForeground": { "value": "{color.font.primary.value}" },
+    "activeBorder": {},
+    
+    "inactiveBackground": { "value": "{color.background.tertiary.value}" },
+    "inactiveForeground": { "value": "{color.font.tertiary.value}" },
+    
+    // Unfocused tabs are ones in the inactive editor group
+    "unfocusedActiveBorder": {},
+    "unfocusedHoverBorder": { "value": "{color.border.active.value}" },
+    "unfocusedActiveForeground": { "value": "{color.font.secondary.value}" },
+    "unfocusedInactiveForeground": { "value": "{color.font.tertiary.value}" }
+  }
+}

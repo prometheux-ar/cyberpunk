@@ -1,0 +1,28 @@
+{
+  // List and trees like the File Explorer.
+  // An active list/tree has keyboard focus, an inactive does not.
+  "list": {
+    "activeSelectionBackground": { "value": "{color.background.selection.tertiary.active.value}" },
+    "activeSelectionForeground": { "value": "{color.font.primary.value}" },
+    "inactiveSelectionBackground": { "value": "{color.background.selection.tertiary.inactive.value}" },
+    "inactiveSelectionForeground": { "value": "{color.font.primary.value}" },
+    "focusBackground": { "value": "{color.background.selection.tertiary.active.value}" },
+    "focusForeground": { "value": "{color.font.primary.value}" },
+    "hoverBackground": { "value": "{color.background.selection.tertiary.inactive.value}" },
+    "hoverForeground": { "value": "{color.font.primary.value}" },
+    
+    "dropBackground": { "value": "{color.background.selection.secondary.active.value}" },
+    
+    "highlightForeground": { "value": "{color.font.primary.value}" },
+    "invalidItemForeground": { "value": "{color.font.danger.value}" },
+    "errorForeground": { "value": "{color.font.danger.value}" },
+    "warningForeground": { "value": "{color.font.warning.value}" }
+  },
+  
+  // You can trigger this by placing focus in the file explorer and start typing
+  "listFilterWidget": {
+    "background": { "value": "{color.background.primary.value}" },
+    "outline": { "value": "{color.border.secondary.value}" },
+    "noMatchesOutline": { "value": "{color.border.danger.value}" }
+  }
+}

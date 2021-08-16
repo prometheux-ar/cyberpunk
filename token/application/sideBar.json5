@@ -1,0 +1,19 @@
+{
+  "sideBar": {
+    "background": { "value": "{color.background.secondary.value}" },
+    "foreground": { "value": "{color.font.secondary.value}" },
+    "border": {},
+    "dropBackground": { "value": "{color.background.selection.primary.active.value}" }
+  },
+  
+  "sideBarSectionHeader": {
+    "background": { "value": "{color.background.secondary.value}" },
+    "foreground": { "value": "{color.font.tertiary.value}" },
+    "border": { "value": "{color.border.tertiary.value}" }
+  },
+  
+  // Text at the top of the sidebar
+  "sideBarTitle": {
+    "foreground": { "value": "{color.font.primary.value}" }
+  }
+}

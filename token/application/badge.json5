@@ -1,0 +1,7 @@
+// Badges are small information labels, for example search results count.
+{
+  "badge": {
+    "foreground": { "value": "{color.font.primary.value}" },
+    "background": { "value": "{color.background.badge.value}" }
+  }
+}

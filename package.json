@@ -4,6 +4,13 @@
     "description": "A crazy cyberpunk theme",
     "version": "1.2.13",
     "publisher": "max-SS",
+    "scripts": {
+        "build": "node build.js",
+		"watch": "npm run build && chokidar \"tokens/**/*.json5\" -c \"npm run build\"",
+		"start": "npm run watch",
+		"prepublish": "npm run build",
+		"publish": "vsce publish"
+    },
     "galleryBanner": {
         "color": "#0a0126",
         "theme": "dark"
@@ -42,5 +49,9 @@
     "bugs": {
         "url": "https://github.com/prometheux-ar/cyberpunk/issues",
         "email": "cyberpunk.vsc@outlook.com"
+    },
+    "devDependencies": {
+        "chokidar-cli": "^3.0.0",
+        "style-dictionary": "^3.0.1"
     }
 }

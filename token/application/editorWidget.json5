@@ -1,0 +1,26 @@
+{
+  // The feedback widget that pops up when you click the smiley face in the
+  // status bar
+  "editorWidget": {
+    "foreground": { "value": "{color.font.primary.value}" },
+    "background": { "value": "{color.background.quaternary.value}" },
+    "border": { "value": "{color.border.secondary.value}" },
+    "resizeBorder": { "value": "{color.border.primary.value}" }
+  },
+  
+  // Autocomplete in the editor
+  "editorSuggestWidget": {
+    "foreground": { "value": "{color.font.secondary.value}" },
+    "background": { "value": "{color.background.quaternary.value}" },
+    "border": { "value": "{color.border.secondary.value}" },
+    "highlightForeground": { "value": "{color.font.primary.value}" },
+    "selectedBackground": { "value": "{color.background.selection.tertiary.active.value}" }
+  },
+  
+  // ex. Quick Fix popup or git hover popup
+  "editorHoverWidget": {
+    "background": { "value": "{color.background.tertiary.value}" },
+    "border": { "value": "{color.border.tertiary.value}" },
+    "statusBarBackground": { "value": "{color.background.tertiary.value}" }
+  }
+}

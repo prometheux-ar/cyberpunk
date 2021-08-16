@@ -1,0 +1,31 @@
+{
+  "input": {
+    "background": { "value": "{color.background.tertiary.value}" },
+    "border": { "value": "#0000" },
+    "foreground": { "value": "{color.font.primary.value}" },
+    "placeholderForeground": { "value": "{color.font.tertiary.value}" }
+  },
+  
+  "inputValidation": {
+    "errorBackground": { "value": "{color.background.danger.value}" },
+    "errorForeground": { "value": "{color.font.inverse.value}" },
+    "errorBorder": { "value": "{color.border.danger.value}" },
+    
+    // You can trigger this by setting git.inputValidation to "always"
+    "infoBackground": { "value": "{color.background.info.value}" },
+    "infoForeground": { "value": "{color.font.inverse.value}" },
+    "infoBorder": { "value": "{color.border.info.value}" },
+    
+    // you can trigger this by writing a commit message in the source control panel
+    // over 50 characters long
+    "warningBackground": { "value": "{color.background.warning.value}" },
+    "warningForeground": { "value": "{color.font.inverse.value}" },
+    "warningBorder": { "value": "{color.border.warning.value}" }
+  },
+  
+  // For example the buttons inside the search and search in file inputs
+  "inputOption": {
+    "activeBorder": { "value": "#0000" },
+    "activeBackground": { "value": "{color.background.interactive.base.value}" }
+  }
+}

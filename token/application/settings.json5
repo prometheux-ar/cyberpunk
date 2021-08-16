@@ -1,0 +1,14 @@
+{
+  "settings": {
+    // This color is used for multiple things in settings:
+    // active tab text and border colors, hover for links, active state for links
+    // headers, and setting names
+    "headerForeground": { "value": "{color.font.link.secondary.active.value}" },
+    "textInputBackground": { "value": "{color.background.tertiary.value}" },
+    "textInputForeground": { "value": "{color.font.primary.value}" },
+    "dropdownBackground": { "value": "{color.background.tertiary.value}" },
+    "dropdownForeground": { "value": "{color.font.primary.value}" },
+    // Border on the side of a setting to show it is modified
+    "modifiedItemIndicator": { "value": "{color.border.info.value}" }
+  }
+}

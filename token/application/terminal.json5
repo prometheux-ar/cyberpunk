@@ -1,0 +1,27 @@
+{
+  "terminal": {
+    // To test these colors run `./scripts/colors` in the terminal
+    "ansiWhite": { "value": "{color.background.secondary.value}" },
+    "ansiBlack": { "value": "{color.font.secondary.value}" },
+    "ansiBlue": { "value": "{color.font.code.7.value}" },
+    "ansiCyan": { "value": "{color.font.code.6.value}" },
+    "ansiGreen": { "value": "{color.font.code.5.value}" },
+    "ansiMagenta": { "value": "{color.font.code.9.value}" },
+    "ansiRed": { "value": "{color.font.code.1.value}" },
+    "ansiYellow": { "value": "{color.font.code.3.value}" },
+    "ansiBrightWhite": { "value": "{color.background.primary.value}" },
+    "ansiBrightBlack": { "value": "{color.font.primary.value}" },
+    "ansiBrightBlue": { "value": "{color.font.code.27.value}" },
+    "ansiBrightCyan": { "value": "{color.font.code.26.value}" },
+    "ansiBrightGreen": { "value": "{color.font.code.25.value}" },
+    "ansiBrightMagenta": { "value": "{color.font.code.29.value}" },
+    "ansiBrightRed": { "value": "{color.font.code.21.value}" },
+    "ansiBrightYellow": { "value": "{color.font.code.23.value}" },
+    "selectionBackground": { "value": "{color.background.selection.secondary.active.value}" }
+  },
+  "terminalCursor": {
+    // I don't know what the foreground is used for
+    "background": { "value": "{color.background.selection.primary.active.value}" },
+    "foreground": { "value": "{color.background.selection.primary.active.value}" }
+  }
+}
