@@ -2,6 +2,8 @@
 	"name": "cyberpunk scarlet",
 	"type": "dark",
 	"colors": {
+		// EditorGutter Section
+		"editorGutter.background": "#060608",
 		"titleBar.activeBackground": "#140009",
 		"titleBar.activeForeground": "#ff8ba8",
 		"sideBarSectionHeader.background": "#240000",
@@ -32,17 +34,21 @@
 		"extensionButton.prominentHoverBackground": "#00FF9C",
 		"diffEditor.insertedTextBackground": "#00ff8427",
 		"diffEditor.removedTextBackground": "#ff174534",
+
+		// Gitlens Section
 		"gitlens.gutterBackgroundColor": "#182333",
 		"gitlens.gutterForegroundColor": "#00e676",
 		"gitlens.gutterUncommittedForegroundColor": "#ffff00",
 		"gitlens.lineHighlightBackgroundColor": "#ff174426",
 		"gitlens.lineHighlightOverviewRulerColor": "#ffff00",
-		"gitlens.trailingLineForegroundColor": "#00ff8449",
+		"gitlens.trailingLineForegroundColor": "#ff00557e",
+
+		// GitDecoration Section
 		"gitDecoration.untrackedResourceForeground": "#00ffc8",
 		"gitDecoration.deletedResourceForeground": "#ff004c",
 		"gitDecoration.modifiedResourceForeground": "#00c3ff",
 		"gitDecoration.conflictingResourceForeground": "#ffff00",
-		"gitDecoration.ignoredResourceForeground": "#c861f76e",
+		"gitDecoration.ignoredResourceForeground": "#70243d",
 		"gitDecoration.submoduleResourceForeground": "#ffff00",
 		"activityBar.background": "#101116",
 		"activityBar.foreground": "#ff0055",
@@ -51,13 +57,19 @@
 		"activityBarBadge.foreground": "#000807",
 		"editorError.foreground": "#ff1865",
 		"editorRuler.foreground": "#182333",
+
+		// Selection Section
+		"selection.background": "#000000",
+
+		// Editor Section
 		"editor.background": "#101116",
 		"editor.foreground": "#ff0055",
-		"editor.lineHighlightBackground": "#a200ff26",
-		"editor.lineHighlightBorder": "#ff000000",
-		"editor.selectionBackground": "#311b92",
-		"editor.selectionHighlightBackground": "#3629ec7e",
-		"editor.hoverHighlightBackground": "#3629ec7e",
+		"editor.lineHighlightBackground": "#030202",
+		"editor.lineHighlightBorder": "#030202",
+		"editor.selectionBackground": "#000000",
+		"editor.selectionHighlightBackground": "#ff00552c",
+		"editor.selectionHighlightBorder": "#ff00557e",
+		"editor.hoverHighlightBackground": "#ff00552c",
 		"editorBracketMatch.background": "#ff005533",
 		"editorBracketMatch.border": "#ff004c",
 		"editorCursor.foreground": "#00ffc8",
@@ -114,13 +126,15 @@
 		"statusBar.debuggingBackground": "#9900ff33",
 		"statusBar.debuggingForeground": "#c566fc",
 		"statusBar.debuggingBorder": "#b700ff",
-		"list.activeSelectionBackground": "#182333",
+
+		// List Section
+		"list.activeSelectionBackground": "#ff005528",
 		"list.activeSelectionForeground": "#ff0055",
 		"list.focusBackground": "#182333",
 		"list.hoverBackground": "#101116",
 		"list.hoverForeground": "#00FF9C",
 		"list.highlightForeground": "#00FF9C",
-		"list.inactiveSelectionBackground": "#100d23",
+		"list.inactiveSelectionBackground": "#0c0000",
 		"list.inactiveSelectionForeground": "#00ffc8",
 		"notificationCenter.border": "#00FF9C",
 		"notificationCenterHeader.background": "#002212ec",
