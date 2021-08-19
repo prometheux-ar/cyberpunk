@@ -3,6 +3,10 @@
 
 In addition to earning a reputation for your work, you get raises for being creative, professional and an awesome member of the community. These raises are my way of thanking you for your interest in continuing to expand this theme that I started in 2017. And on the other hand I hope others will be motivated to participate in the co-creation of Cyberpunk.
 
+Thank you very much for everything!
+
+Enjoy!!!
+
 ## Levels of Boost
 There are four levels of rarity and difficulty. These can be identified by their different colours.
 
