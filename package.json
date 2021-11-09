@@ -24,6 +24,11 @@
                 "path": "./themes/cyberpunk-color-theme.json"
             },
             {
+                "label": "Cyberpunk [italics:none]",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyberpunk-color-theme-no-italics.json"
+            },
+            {
                 "label": "Activate UMBRA protocol",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cyberpunk-umbra-color-theme.json"
