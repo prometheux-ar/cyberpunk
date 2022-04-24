@@ -127,6 +127,10 @@
 		"statusBar.debuggingForeground": "#c566fc",
 		"statusBar.debuggingBorder": "#b700ff",
 
+		// Inlay Hints Section
+		"editorInlayHint.background": "#030202",
+		"editorInlayHint.foreground": "#d57bff",
+
 		// List Section
 		"list.activeSelectionBackground": "#ff005528",
 		"list.activeSelectionForeground": "#ff0055",

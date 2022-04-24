@@ -138,6 +138,10 @@
 		// EditorLink Section
 		"editorLink.activeForeground": "#3d81fe",
 
+		// Inlay Hints Section
+		"editorInlayHint.background": "#100D2380",
+		"editorInlayHint.foreground": "#d57bff",
+
 		// Tab Section
 		"tab.activeForeground": "#00FF9C",
 		"tab.border": "#372963",
