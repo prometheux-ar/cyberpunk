@@ -146,6 +146,7 @@
 		"tab.activeBackground": "#261D45",
 		"tab.hoverBorder": "#721bf2",
 		"tab.hoverBackground": "#3f2c70",
+		"tab.activeModifiedBorder": "#00FF9C",
 
 		// Input Section
 		"input.background": "#002212ec",
