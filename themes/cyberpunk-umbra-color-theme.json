@@ -82,6 +82,11 @@
         "editorBracketMatch.border": "#ff004c",
         "editorBracketMatch.background": "#ff005533",
         "editorWidget.border": "#00FF9C",
+
+		// Inlay Hints Section
+		"editorInlayHint.background": "#006eff2d",
+		"editorInlayHint.foreground": "#d57bff",
+
 		"tab.activeForeground": "#00FF9C",
 		"tab.border": "#372963",
 		"tab.inactiveBackground": "#1e1d45",
