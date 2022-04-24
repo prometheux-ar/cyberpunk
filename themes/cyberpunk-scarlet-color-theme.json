@@ -103,6 +103,7 @@
         "tab.border": "#101116",
         "tab.activeForeground": "#ff0055",
         "tab.inactiveForeground": "#eb4d81de",
+		"tab.activeModifiedBorder": "#00FF9C",
 		"input.background": "#001420",
 		"input.border": "#00a2ff",
 		"input.foreground": "#00ffc8",

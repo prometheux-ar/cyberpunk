@@ -87,6 +87,7 @@
 		"tab.inactiveBackground": "#1e1d45",
 		"tab.inactiveForeground": "#7877b3",
 		"tab.activeBackground": "#100d23",
+		"tab.activeModifiedBorder": "#00FF9C",
 		"input.background": "#002212ec",
 		"input.border": "#00FF9C",
         "input.foreground": "#00ff6a",
