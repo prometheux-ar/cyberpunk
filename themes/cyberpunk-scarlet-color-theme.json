@@ -103,6 +103,14 @@
         "tab.border": "#101116",
         "tab.activeForeground": "#ff0055",
         "tab.inactiveForeground": "#eb4d81de",
+
+		// Menu Section
+		"menu.border": "#ff0055",
+		"menu.background": "#140007f8",
+		"menu.foreground": "#ff0055",
+		"menu.selectionBackground": "#ff0055",
+		"menu.selectionForeground": "#000",
+
 		"input.background": "#001420",
 		"input.border": "#00a2ff",
 		"input.foreground": "#00ffc8",
