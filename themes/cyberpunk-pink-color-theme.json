@@ -27,16 +27,16 @@
 
 		// Badge Section
 		"badge.background": "#ff04d8",
-		"badge.foreground": "#001107",
+		"badge.foreground": "#14000e",
 
 		// Button Section
 		"button.background": "#f904fd99",
-		"button.foreground": "#00140b",
+		"button.foreground": "#14000e",
 		"button.hoverBackground": "#fa04fd",
 
 		// ExtensionButton Section
 		"extensionButton.prominentBackground": "#f904fd99",
-		"extensionButton.prominentForeground": "#00140b",
+		"extensionButton.prominentForeground": "#14000e",
 		"extensionButton.prominentHoverBackground": "#fa04fd",
 
 		// DiffEditor Section
@@ -63,7 +63,7 @@
 		"activityBar.background": "#261D45",
 		"activityBar.foreground": "#ff04d8",
 		"activityBarBadge.background": "#ff04d8",
-		"activityBarBadge.foreground": "#001107",
+		"activityBarBadge.foreground": "#14000e",
 		"activityBar.border": "#1D1833",
 
 		// Editor Section
@@ -198,7 +198,7 @@
 		"notificationLink.foreground": "#ff683e",
 
 		// Notifications Section
-		"notifications.background": "#002212e7",
+		"notifications.background": "#260317e7",
 		"notifications.foreground": "#fa04fd",
 		"notifications.border": "#ff683e",
 
