@@ -47,7 +47,7 @@ Another way to get this boost: Once the Friendly badge is completed, every PR do
 </div>
 This boost is achieved in its full form by creating a new protocol using Cyberpunk as a baseline, for example UMBRA protocol, or SCARLET protocol.
 
-Another way to get this boost: Once you have completed the Fiendly badge, each PR done to a protocol grants one experience bar, until the badge is completed.
+Another way to get this boost: Once you have completed the Friendly badge, each PR done to a protocol grants one experience bar, until the badge is completed.
 
 ---
 
