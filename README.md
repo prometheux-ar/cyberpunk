@@ -41,9 +41,11 @@ But fundamentally I chose the cyberpunk theme, because it allows me to use a ver
 ### Cyberpunk SCARLET for Windows Termin [hasparus](https://gist.github.com/hasparus)
 <a href="https://gist.github.com/hasparus/37f8e6ceb4112a0e33f2223dd1e9dd2e"><img src="assets/spin-off/Cyberpunk-SCARLET-for-Windows-Terminal-spin_off.png" alt="windows-terminal_theme_preview" width="450rem"></a>
 
-### CyberPunk2077-umbra-WindowsTerminal [mikevromen](hhttps://github.com/mikevromen)
+### CyberPunk2077-umbra-WindowsTerminal [mikevromen](https://github.com/mikevromen)
 <a href="https://github.com/mikevromen/CyberPunk2077-umbra-WindowsTerminal"><img src="assets/spin-off/CyberPunk2077-umbra-WindowsTerminal-spin_off.png" alt="windows-terminal_theme_preview" width="450rem"></a>
 
+### Cyberpunk Firefox Theme by [Moritz Glantz](https://moritzglantz.de)
+<a href="https://addons.mozilla.org/de/firefox/addon/cyberpunkish/" alt="Firefox Theme Preview"><img src="assets/spin-off/firefox-preview.png"></a>
 
 <br>
 <br>
